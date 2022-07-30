@@ -4,5 +4,4 @@
 
 Website - https://voice-assisted-budget-tracker.netlify.app/
 
-Setup:
-- run ```npm i && npm start```
+Setup: - run ```npm i && npm start```
